@@ -1,0 +1,9 @@
+Order_ID,Product,Category,Quantity,Price,Customer_Age,Order_Date,Revenue
+101,Laptop,Electronics,2,50000,25.0,2026-01-05,100000
+102,Mouse,Electronics,5,500,30.0,2026-01-10,2500
+103,Keyboard,Electronics,3,1500,30.0,2026-02-03,4500
+104,Monitor,Electronics,1,12000,35.0,2026-02-15,12000
+105,Laptop,Electronics,2,50000,28.0,2026-03-01,100000
+106,Mouse,Electronics,4,500,40.0,2026-03-10,2000
+107,Keyboard,Electronics,3,1500,32.0,2026-04-05,4500
+108,Monitor,Electronics,1,12000,29.0,2026-04-12,12000
